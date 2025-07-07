@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color:rgb(149, 149, 149);
+    background-color: rgb(149, 149, 149);
     color: #333;
 }
 
@@ -16,7 +16,7 @@ header {
 section {
     padding: 20px;
     margin: 20px;
-    background-color: rgb(167, 163, 163);
+    background-color: rgb(120, 115, 115);
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -37,3 +37,12 @@ ul li {
     border-radius: 4px;
 }
 
+
+    header {
+        padding: 20px;
+    }
+
+    section {
+        margin: 10px;
+    }
+}
